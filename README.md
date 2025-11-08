@@ -59,7 +59,8 @@ The goal is to demonstrate **data storytelling and business intelligence skills*
 ## 🚀 How to Use
 1. Clone the repository.  
 2. Open the `.pbix` file in Power BI Desktop.  
-3. Explore the interactive dashboards using slicers and filters.  
+3. Explore the interactive dashboards using slicers and filters.
+4. Alternatively, Open the `.pdf` file to instantly check it out.
 
 ---
 
